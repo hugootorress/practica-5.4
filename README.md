@@ -129,5 +129,5 @@ Guárdalo en GitHub dentro de Settings > Secrets and Variables > Actions:
 Una vez configurado el flujo de trabajo, cada vez que hagas un push al repositorio, GitHub Actions construirá y subirá la imagen automáticamente a DockerHub.
 
 Para verificar si la imagen se ha publicado correctamente, podemos ir a la pestaña Actions de GitHub y comprobar que los pasos se ejecutan correctamente. Si todo funciona bien, debería verse algo como esto:
-[!Captura de como debe funcionar](img/imagendocker.png)
+![Captura de como debe funcionar](img/5.4-funciona.png)
 
